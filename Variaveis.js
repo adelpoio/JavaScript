@@ -1,4 +1,4 @@
-var
+//------------------- VAR -------------------//
 
 var altura = 5;
 var comprimento = 7;
@@ -9,7 +9,7 @@ var area;
 
 //------------------- VAR -------------------//
 
-let forma = "retângulo"
+let forma1 = "retângulo"
 let altura = 5;
 let comprimento = 7;
 let area;
